@@ -1,2 +1,2 @@
 # aibudget
-Personal finance apps
+Personal finance app
